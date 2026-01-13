@@ -1,7 +1,7 @@
 Exam Score Prediction Using Machine Learning
 Project Overview
 
-This project focuses on predicting student exam scores using machine learning techniques. The model analyzes how academic engagement factors — specifically hours studied and attendance rate — influence exam performance.
+This project focuses on predicting student exam scores using machine learning techniques. The model analyzes how academic engagement factors specifically hours studied and attendance rate — influence exam performance.
 
 A linear regression model is trained to learn the relationship between these variables and generate accurate predictions. The project demonstrates the full data science workflow including data preprocessing, model training, evaluation, visualization, and interpretation.
 
